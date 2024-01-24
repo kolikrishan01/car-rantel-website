@@ -1,0 +1,10 @@
+.compo-banner{
+    background-image: url("../assets/compobanner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+.compo-banner div{
+    background-color: #ffffff41;
+}
